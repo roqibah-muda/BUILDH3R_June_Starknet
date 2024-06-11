@@ -4,7 +4,7 @@ fn main() {
 }
 
 fn name() {
-    println!("My name is Painless")
+    println!("My name is Roqibah")
 }
 
 fn date(x: u8) {
